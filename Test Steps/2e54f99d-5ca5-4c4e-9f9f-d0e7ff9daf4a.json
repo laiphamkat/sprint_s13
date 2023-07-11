@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: Login at https://www.saucedemo.com/ --> navigate to Page_inventory_html",
+        "step 3: At Page_inventory_html click on button_add_to_cart_sauce_labs_backpack",
+        "step 4: At Page_inventory_html click on hyperlink_object --> navigate to Page_cart_html",
+        "step 5: At Page_cart_html click on button_checkout --> navigate to Page_checkout-step-one_html",
+        "step 6: At Page_checkout-step-one_html input on input_first_name",
+        "step 7: At Page_checkout-step-one_html input on input_last_name",
+        "step 8: At Page_checkout-step-one_html input on input_postal_code",
+        "step 9: At Page_checkout-step-one_html click on input_continue --> navigate to Page_checkout-step-two_html",
+        "step 10: At Page_checkout-step-two_html click on button_finish --> navigate to Page_checkout-complete_html",
+        "step 11: At Page_checkout-complete_html click on button_react_burger_menu_btn",
+        "step 12: Add visual checkpoint at Page_checkout-complete_html"
+    ]
+}

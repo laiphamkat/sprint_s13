@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: Login at https://www.saucedemo.com/ --> navigate to Page_inventory_html",
+        "step 3: At Page_inventory_html click on button_react_burger_menu_btn",
+        "step 4: Add visual checkpoint at Page_inventory_html"
+    ]
+}
